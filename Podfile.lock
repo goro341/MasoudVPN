@@ -1,0 +1,20 @@
+PODS:
+  - INSPersistentContainer (1.0.2)
+  - PKHUD (5.0.0)
+
+DEPENDENCIES:
+  - INSPersistentContainer
+  - PKHUD (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - INSPersistentContainer
+    - PKHUD
+
+SPEC CHECKSUMS:
+  INSPersistentContainer: 7e04a0d332ba075441ce0ee73d584ce84d76ac23
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+
+PODFILE CHECKSUM: 5b2256563fa0475311e1b039db9ca2f074369a12
+
+COCOAPODS: 1.5.3
